@@ -1,0 +1,4 @@
+C:\Users\xiaojiefan\Desktop\HW3\homework-3-node-mongodb-adam-jason\server\populate_db.js
+  8:5  error  Parsing error: 'return' outside of function
+
+✖ 1 problem (1 error, 0 warnings)
